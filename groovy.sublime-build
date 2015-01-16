@@ -1,0 +1,5 @@
+{
+    "cmd": ["C:/Program Files (x86)/Groovy/Groovy-2.2.1/bin/groovy.bat", "$file"],
+    "file_regex": "\\((.*?):([0-9]*)\\)",
+    "selector": "source.groovy"
+}
