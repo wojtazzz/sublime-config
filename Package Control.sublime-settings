@@ -1,7 +1,9 @@
 {
 	"installed_packages":
 	[
+		"Anaconda",
 		"Git",
+		"GitGutter",
 		"Monokai Extended",
 		"Package Control",
 		"SideBarEnhancements",
