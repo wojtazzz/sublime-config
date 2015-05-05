@@ -1,0 +1,4 @@
+{
+    "glue_userpath" : "/Users/wojtekf/.gvm/vertx/current/bin:/Users/wojtekf/.gvm/springboot/current/bin:/Users/wojtekf/.gvm/lazybones/current/bin:/Users/wojtekf/.gvm/jbake/current/bin:/Users/wojtekf/.gvm/groovyserv/current/bin:/Users/wojtekf/.gvm/groovy/current/bin:/Users/wojtekf/.gvm/griffon/current/bin:/Users/wojtekf/.gvm/grails/current/bin:/Users/wojtekf/.gvm/gradle/current/bin:/Users/wojtekf/.gvm/glide/current/bin:/Users/wojtekf/.gvm/gaiden/current/bin:/Users/wojtekf/.gvm/crash/current/bin:/Users/wojtekf/.gvm/asciidoctorj/current/bin:/Users/wojtekf/Library/Android_sdk/android-sdk-macosx/platform-tools:/Users/wojtekf/Library/Android_sdk/android-sdk-macosx/build-tools:/Users/wojtekf/Library/Android_sdk/android-sdk-macosx/tools:/usr/local/Cellar/maven/3.2.5/libexec/bin:/Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/wojtekf/bin:/usr/local/bin",
+    "glue_shellpath" : "/usr/local/bin/bash"
+}
